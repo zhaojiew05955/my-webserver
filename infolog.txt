@@ -1,0 +1,3 @@
+2022-09-27 13:23:47,244 - test-log-info - INFO - info
+2022-09-27 13:23:47,244 - test-log-info - ERROR - error
+2022-09-27 13:23:47,248 - test-log-info - WARNING - warning
